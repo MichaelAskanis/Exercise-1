@@ -1,0 +1,14 @@
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\bin\Debug\SynetecMvcAssesment.DataAccess.dll
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\bin\Debug\SynetecMvcAssesment.DataAccess.pdb
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\obj\Debug\SynetecMvcAssesment.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\obj\Debug\SynetecMvcAssesment.DataAccess.csproj.CopyComplete
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\obj\Debug\SynetecMvcAssesment.DataAccess.dll
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\obj\Debug\SynetecMvcAssesment.DataAccess.pdb
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\bin\Debug\SynetecMvcAssesment.DataAccess.dll.config
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\askanism\Downloads\synetec-assessment-mvc-master\synetec-assessment-mvc-master\Solution\SynetecMvcAssesment.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
